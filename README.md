@@ -28,8 +28,7 @@ These days I build things with machine learning and LLMs: RAG chatbots, forecast
 -  Building with RAG, agents and multi-agent systems
 -  Going deeper on AI Governance and Safety
 -  Writing about data and AI on [Medium]([TODO_MEDIUM_URL](https://medium.com/@bhagyadissanayake))
--  Ask me about cricket analytics, or MMA. I built a chatbot for the second one.
--  Colombo, Sri Lanka
+-  Ask me about how data science and AI fits into cricket or MMA.
 
 ---
 
