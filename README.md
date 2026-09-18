@@ -1,5 +1,3 @@
-<!-- Replace YOUR_GITHUB_USERNAME everywhere, and fill in the links marked with TODO -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Bhagya%20Dissanayake&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Bhagya Dissanayake" />
@@ -10,9 +8,9 @@
 
 <br/>
 
-<a href="[TODO_LINKEDIN_URL](https://www.linkedin.com/in/bhagya-dissanayake-3a1a43286/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="[TODO_PORTFOLIO_URL](https://bhagya-d36.github.io/)"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="[TODO_MEDIUM_URL](https://medium.com/@bhagyadissanayake)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.linkedin.com/in/bhagya-dissanayake-3a1a43286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://bhagya-d36.github.io/"><img src="https://img.shields.io/badge/Portfolio-203a43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://medium.com/@bhagyadissanayake"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:bhagyasdi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
@@ -27,7 +25,7 @@ These days I build things with machine learning and LLMs: RAG chatbots, forecast
 
 -  Building with RAG, agents and multi-agent systems
 -  Going deeper on AI Governance and Safety
--  Writing about data and AI on [Medium]([TODO_MEDIUM_URL](https://medium.com/@bhagyadissanayake))
+-  Writing about data and AI on [Medium](https://medium.com/@bhagyadissanayake)
 -  Ask me about how data science and AI fits into cricket or MMA.
 
 ---
@@ -109,8 +107,7 @@ I played professional cricket from 2019 to 2024, representing **Sri Lanka Navy**
 
 It taught me more about teamwork, discipline and performing under pressure than any course has. It's also why I can't look at a scorecard without wanting to build a model on it.
 
-<!-- TODO: add your ESPNcricinfo profile link -->
-[ESPNcricinfo player profile]([TODO_CRICINFO_URL](https://www.cricinfo.com/cricketers/bhagya-dissanayake-1214966))
+[ESPNcricinfo player profile](https://www.cricinfo.com/cricketers/bhagya-dissanayake-1214966)
 
 ---
 
