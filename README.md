@@ -21,7 +21,7 @@
 
 I'm a Data Science and Business Analytics graduate (First Class Honours, University of London under the academic direction of LSE) who spent five years playing professional cricket in Sri Lanka's domestic circuit before going all in on AI.
 
-These days I build things with machine learning and LLMs: RAG chatbots, forecasting models, computer vision pipelines, and the occasional deep dive into sports data.
+These days I build things with machine learning and LLMs, with the occasional deep dive into sports data.
 
 -  Building with RAG, agents and multi-agent systems
 -  Going deeper on AI Governance and Safety
